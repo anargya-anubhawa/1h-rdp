@@ -3,18 +3,18 @@
 
 ### How to use
 
-Just Fork this Repository, Go to Actions tab, Select the _CRD-Anargya_ workflow. Then select **Run Workflow** fill the following data in CRD Code and your Pin in the fields. After that, Press Start.
+Fork Repository ini, Pergi ke Actions tab, Pilih _WCRD-Anargya_ workflow. Lalu pilih **Run Workflow** isi semua data, kode dan pin. Setelah itu, Tekan Start.
 
-Input the following code in the fields.
+Step.
 
-- Get the **Windows (Powershell)** command from here:
+- Ambil **Windows (Powershell)** command dari sini:
 
   https://remotedesktop.google.com/headless
 
   
 
-- Enter you Six digit Pin code to Login
+- Masukkan pin 6 digit
 
-  (_Masukkan password enam digit. Contoh 123456_)
+  (_Password angka enam digit. Contoh 123456_)
 
-**Thats it...** After 2-3 min of Initialize, Check your CRD Application or Account.
+**Selesai** Tunggu 2-3 menit, Cek Account.
